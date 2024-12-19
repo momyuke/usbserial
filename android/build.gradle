@@ -49,6 +49,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.angelix:UsbSerial:0f16336a4e'
+    implementation 'com.github.angelix:UsbSerial'
 }
 
